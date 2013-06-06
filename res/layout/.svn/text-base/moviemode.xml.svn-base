@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="250dp"
+    android:layout_height="match_parent"
+    android:background="@color/whitef5"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:text="Video Mode"
+        android:background="@drawable/maskheader"
+        android:typeface="sans"
+        android:layout_marginBottom="15dp"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <RadioGroup
+        android:id="@+id/groupmoviemode"
+        android:layout_width="fill_parent"
+        android:paddingLeft="30dp"
+        android:layout_height="wrap_content" >
+
+    <RadioButton
+        android:id="@+id/modeonepiece"
+        android:button="@drawable/list_lang_check" 
+        android:layout_width="fill_parent"
+        android:layout_marginBottom="15dp"
+        android:textColor="@color/gray7E"
+        android:layout_height="wrap_content"
+        android:text="One Piece" />
+
+    <RadioButton
+        android:id="@+id/modemovie"
+        android:button="@drawable/list_lang_check" 
+        android:layout_width="fill_parent"
+        android:layout_marginBottom="15dp"
+        android:textColor="@color/gray7E"
+        android:layout_height="wrap_content"
+        android:text="One Piece The Movie         " />
+
+    <RadioButton
+        android:id="@+id/modemanga"
+        android:layout_marginBottom="15dp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/gray7E"
+        android:button="@drawable/list_lang_check"
+        android:text="One Piece Manga        " />
+
+    </RadioGroup>
+
+</LinearLayout>

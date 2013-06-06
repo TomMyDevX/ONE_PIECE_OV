@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/8/trunk/src/com/polites/android
+END
+FlingListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/8/trunk/src/com/polites/android/FlingListener.java
+END
+FlingAnimationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/8/trunk/src/com/polites/android/FlingAnimationListener.java
+END
+GestureImageViewTouchListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8/trunk/src/com/polites/android/GestureImageViewTouchListener.java
+END
+GestureImageViewListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/8/trunk/src/com/polites/android/GestureImageViewListener.java
+END
+MathUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8/trunk/src/com/polites/android/MathUtils.java
+END
+FlingAnimation.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/8/trunk/src/com/polites/android/FlingAnimation.java
+END
+Animator.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8/trunk/src/com/polites/android/Animator.java
+END
+GestureImageView.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8/trunk/src/com/polites/android/GestureImageView.java
+END
+MoveAnimationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/8/trunk/src/com/polites/android/MoveAnimationListener.java
+END
+ZoomAnimationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/8/trunk/src/com/polites/android/ZoomAnimationListener.java
+END
+Animation.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8/trunk/src/com/polites/android/Animation.java
+END
+MoveAnimation.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/8/trunk/src/com/polites/android/MoveAnimation.java
+END
+VectorF.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8/trunk/src/com/polites/android/VectorF.java
+END
+ZoomAnimation.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/8/trunk/src/com/polites/android/ZoomAnimation.java
+END

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">One Piece Video</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_first_ac">FirstAC</string>
+    <string name="onepiece">One Piece</string>
+    <string name="opmovie">One Piece The Movie</string>
+    <color  name="whitef5">#F5F5F5</color>
+    <color  name="bluef5">#8CD2F7</color>
+    <color  name="grayf5">#D5D5D5</color>
+    <color  name="gray7E">#7E7E7E</color>
+    
+</resources>

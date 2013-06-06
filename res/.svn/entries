@@ -1,0 +1,55 @@
+10
+
+dir
+14
+https://onepiecevideo-android.googlecode.com/svn/trunk/res
+https://onepiecevideo-android.googlecode.com/svn
+
+
+
+2013-01-04T22:11:32.718105Z
+13
+maxzateam@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2aa30304-83a6-5894-d075-924354b9c411
+
+anim
+dir
+
+drawable
+dir
+
+drawable-hdpi
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+drawable-xhdpi
+dir
+
+layout
+dir
+
+menu
+dir
+
+values
+dir
+

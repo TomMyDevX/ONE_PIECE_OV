@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/13/trunk/res/layout
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/13/trunk/res/layout/main.xml
+END
+empty.xml
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/8/trunk/res/layout/empty.xml
+END
+ds.xml
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/8/trunk/res/layout/ds.xml
+END
+activity_first_ac.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/9/trunk/res/layout/activity_first_ac.xml
+END
+moviemode.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/11/trunk/res/layout/moviemode.xml
+END
+custom_style.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/8/trunk/res/layout/custom_style.xml
+END
+item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/11/trunk/res/layout/item.xml
+END
+report.xml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/11/trunk/res/layout/report.xml
+END
+dialog_show.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/12/trunk/res/layout/dialog_show.xml
+END
